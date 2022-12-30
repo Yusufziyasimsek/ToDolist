@@ -1,0 +1,15 @@
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.csproj.AssemblyReference.cache
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.AssemblyInfoInputs.cache
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.AssemblyInfo.cs
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.csproj.CoreCompileInputs.cache
+C:\Users\abn\Desktop\TodoList c#\bin\Debug\net6.0\TodoList c#.exe
+C:\Users\abn\Desktop\TodoList c#\bin\Debug\net6.0\TodoList c#.deps.json
+C:\Users\abn\Desktop\TodoList c#\bin\Debug\net6.0\TodoList c#.runtimeconfig.json
+C:\Users\abn\Desktop\TodoList c#\bin\Debug\net6.0\TodoList c#.dll
+C:\Users\abn\Desktop\TodoList c#\bin\Debug\net6.0\TodoList c#.pdb
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.dll
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\refint\TodoList c#.dll
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.pdb
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\TodoList c#.genruntimeconfig.cache
+C:\Users\abn\Desktop\TodoList c#\obj\Debug\net6.0\ref\TodoList c#.dll
